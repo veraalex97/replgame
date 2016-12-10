@@ -1,1 +1,0 @@
-Game where you choose a weapon and try to figure out the optimal choices needed to fight off the horde.
